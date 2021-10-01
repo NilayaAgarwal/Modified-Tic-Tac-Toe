@@ -98,7 +98,7 @@ while(count!=0){
             count--;
            }
     }
-    cout<<"\n\n";
+    cout<<"\n\n\n";
 }
 cout<<endl;
 if(count1%2==0){
