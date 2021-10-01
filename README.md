@@ -1,10 +1,10 @@
 # MODIFIED TIC-TAC-TOE
 
-A modified and more strategic version of classic game Tic-Tac-Toe. 
+A modified and more strategic version of classic game Tic-Tac-Toe:smile:. 
 
-mode: 2 players
+Mode: 2 players
 
-rules:
+## Rules
 
 There are 3 boards initially. Both players, turn by turn, make a 'X' mark on any unfilled cell of any board.
 
