@@ -102,10 +102,10 @@ while(count!=0){
 }
 cout<<endl;
 if(count1%2==0){
-    cout<<"player1 wins ";
+    cout<<"player1 Wins ";
 }
 else{
-    cout<<"player2 wins ";
+    cout<<"player2 Wins ";
 }
 return 0;
 }
